@@ -4,7 +4,7 @@ Please preview generics.html which uses the compiled js file --> generics.js. Hi
 
 Assignment –
 
---Create a class which takes Generics of <T>.
+--Create a class which takes Generics of \<T\>.
 
 --Create 2 interfaces which should have two different properties and pass those
 interface in the class initialization.
